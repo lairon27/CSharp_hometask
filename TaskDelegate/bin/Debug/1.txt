@@ -1,0 +1,6 @@
+5
+Ferguson 12 11,23
+Chambers 1 0,57
+Robertson 15 14,62
+Fleming 2 3,76
+Morrison 13 12,87
